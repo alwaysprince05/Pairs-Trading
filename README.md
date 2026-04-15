@@ -1,4 +1,4 @@
-## dev/creator = tubakhxn
+## dev/creator = alwaysprince05
 
 # Pairs Trading Statistical Arbitrage System
 
